@@ -1,0 +1,1 @@
+Instalar o dht11 -> pip install dht11
