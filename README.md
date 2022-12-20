@@ -26,7 +26,7 @@ python3 main.py 10422 '164.41.98.26'
 
 ```
 cd distribuido
-python3 main.py ../configuracao_sala_0.json
+python3 main.py ../configuracao_sala_01.json
 ```
 
 #### Distribuido 2
